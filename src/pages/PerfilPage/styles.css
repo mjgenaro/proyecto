@@ -1,0 +1,23 @@
+.containerPerfil{
+    background-color: rgba(35, 1, 63, 0.911);
+    align-items: center;
+    text-align: center;
+    height:700px;
+}
+
+.botonVolver{
+    background-color: rgb(32, 24, 24);
+    width: 100px;
+    margin-top: 50px;
+}
+.foto{
+    background-image: url("./../../assets/images/sinfoto.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-left: 41%;
+    margin-top: 5%;  
+    margin-bottom: 3%;
+    width: 250px;
+    height: 200px;
+}
+

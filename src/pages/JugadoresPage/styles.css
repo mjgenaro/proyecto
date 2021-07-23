@@ -1,0 +1,22 @@
+.bodyJugadores{
+    margin:0 auto;
+    padding:0 auto;
+    background-color:rgba(29, 3, 49, 0.925);
+    width: 100vw;
+    height: 100vh;  
+}
+
+.cardJugadores{
+    border: 2px solid black;
+}
+
+.botonAtras{
+    background-color: rgb(32, 24, 24);
+    width: 100px;
+    margin-top: 10px;
+}
+.botonAdelante{
+    background-color: rgb(32, 24, 24);
+    width: 100px;
+    margin-top: 10px;
+}

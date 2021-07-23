@@ -1,0 +1,35 @@
+.containerHome{
+    width:1400px;
+    height:100%;
+    box-sizing: border-box;
+    background-color:blue;
+    margin-right: 0%;
+}
+.navbar{
+    width: 0 auto;    
+    text-align: center;
+    float: none;
+    margin-left: 2%;
+    
+}
+.bodyHome{
+    background-color:blue;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 1%;
+}
+.imagenHome{
+    width: 80%;
+    margin-left: 150px;
+}
+.footerHome{
+    background-color:blue;
+    margin: 10px;
+    text-align: center;
+    font-weight: 200;
+}
+.parrafoHome{
+    background-color:blue;
+    text-decoration: double;
+    margin-left: 280px;
+}

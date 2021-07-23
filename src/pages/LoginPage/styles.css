@@ -1,0 +1,26 @@
+
+.containerLogin{
+    background-color: rgba(35, 1, 63, 0.911);
+    align-items: center;
+    text-align: center;
+    height: 800px;
+    width: 100%;
+    display: inline-block;
+}
+
+.formLogin{
+    margin-left: 550px;
+    width:300px;
+}
+
+.botonLogin{
+    background-color: rgb(32, 24, 24);
+    margin-top: 30px;
+    left: 550px;
+    width: 300px;
+}
+
+.imagenLogin{
+    height:400px;
+    width: 400px;
+}
